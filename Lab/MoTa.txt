@@ -1,0 +1,42 @@
+OMS:hệ thống thương mại điện tử
+media: sản phẩm truyền thông đa phương tiện
+   id: mã sản phẩm
+   title: tên sản phẩm
+   category: danh mục
+   cost: giá
+>>Physical media:
+   barcode: mã vạch
+   description: mô tả
+   quantity: số lượng
+   weight: khối lượng kg
+   height, width
+   >>book 
+        publisher: nhà xuất bản
+        publication date: ngày xuất bản
+        authors: tác giả
+        number of pages: số trang
+        language: ngôn ngữ
+   >>compact disc
+        artist: nghệ sĩ
+        length: thời lượng
+        date of issue: ngày phát hành
+        tracks: danh sách
+        title:
+   >>Digital video disc
+        director: đạo diễn
+        studio: hãng
+        language:
+        length
+Đặt hàng-> tìm kiếm sản phẩm-> thêm sản phẩm vào giỏ-> thanh toán
+Tìm kiếm sản phẩm-> đặc tính->sắp xếp theo giá
+Giỏ hàng: thêm vào, xóa đi, xem số lượng
+
+Thanh toán:
+   >500k=freeship
+   <500k:  Hà nội||TPHCM: 22k
+           Tỉnh khác: 0.5kg đầu=30k+ (kg-0.5)*5k
+   
+  ps: kg= khối lượng thật+ khối lượng quy đổi
+      khối lượng quy đổi= chiều dài* chiều rộng* chiều cao/6000
+
+
