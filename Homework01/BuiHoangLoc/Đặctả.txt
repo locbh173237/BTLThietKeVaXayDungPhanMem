@@ -1,0 +1,6 @@
+Use case name: Quản lý thông tin bãi xe
+Description: Là quản trị viên cần quản lý các bãi xe và cập nhật các thông tin các xe 
+hiện có và chỗ trống để khách hàng biết để thuê xe và có thể trả xe chính xác
+Actor: quản trị viên
+Basic Flow: Hiển thị bãi xe dưới dạng danh sách
+            Truy cập vào từng bãi xe sẽ có từng chỉ dẫn: đường đi, chỗ trống, Xe hiện có

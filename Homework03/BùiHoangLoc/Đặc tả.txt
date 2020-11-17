@@ -1,0 +1,7 @@
+Hiển thị trên màn hình ban đầu là màn hình trang chủ HomePage
+Khi khách hàng muốn thuê xe thì Click vào tag Thuê Xe màn hình sẽ chuyển sang giao diện Thuê Xe
+Trong giao diện Thuê Xe thì có Tùy chọn tìm kiếm bãi xe, và tùy chọn Xem thông tin xe đang thuê 
+Nếu muốn thuê mới thì Click vào Quản lý bãi xe sẽ được đưa đến giao diện Quản lí bãi xe
+Tại màn hình quản lí bãi xe sẽ có danh sách bãi xe. chọn Bãi xe muốn thuê
+Tại màn hình Bãi xe có danh sách xe, chọn xe muốn thuê
+Tại màn hình Xem thông tin xe có tùy chọn thuê xe hoặc quay lại
